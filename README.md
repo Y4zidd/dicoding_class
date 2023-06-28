@@ -4,7 +4,6 @@ Ini adalah rangkuman pembelajaran di kelas dicoding
  
 ## 1. Pengenalan ke Logika Pemrograman
 
-### *list rangkuman*
 - [Pendahuluan](https://www.dicoding.com/academies/297/tutorials/12842](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Pengenalan%20ke%20Logika%20Pemrograman%20(Programming%20Logic%20101))/pendahuluan_logika.md)https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Pengenalan%20ke%20Logika%20Pemrograman%20(Programming%20Logic%20101))/pendahuluan_logika.md)
 - [Gerbang Logika](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Pengenalan%20ke%20Logika%20Pemrograman%20(Programming%20Logic%20101))/gerbang_logika.md)
 - [Pengenalan Dasar Computational Thinking](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Pengenalan%20ke%20Logika%20Pemrograman%20(Programming%20Logic%20101))/Computational_Thinking.md)
