@@ -1,1 +1,0 @@
-Yazid Istiqlal Adhy Fadhillah
