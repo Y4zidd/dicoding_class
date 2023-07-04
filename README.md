@@ -20,7 +20,3 @@ Ini adalah rangkuman pembelajaran di kelas dicoding
 - [git branches](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Pengenalan%20dasar%20git%20dan%20github)/git_branches.md)
 - [kolaborasi dengan tim](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Pengenalan%20dasar%20git%20dan%20github)/studi_kasus%20kolaborasi.md)
 - [github sebagai portofolio](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Pengenalan%20dasar%20git%20dan%20github)/portofolio_github.md)
-
-
-
-
