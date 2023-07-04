@@ -14,6 +14,13 @@ Ini adalah rangkuman pembelajaran di kelas dicoding
 - [database](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman(Pengenalan%20Data%20pada%20Pemrograman%20(Data%20101))/database.md)
 
 ### **Pengenalan git dan github dasar**
+- [git dan github](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Pengenalan%20dasar%20git%20dan%20github)/git%20_dan_github.md)
+- [dasar git](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Pengenalan%20dasar%20git%20dan%20github)/dasar_git.md)
+- [studi kasus pembengalaman belajar](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Pengenalan%20dasar%20git%20dan%20github)/studi_kasus_pengalaman.md)
+- [git branches](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Pengenalan%20dasar%20git%20dan%20github)/git_branches.md)
+- [kolaborasi dengan tim](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Pengenalan%20dasar%20git%20dan%20github)/studi_kasus%20kolaborasi.md)
+- [github sebagai portofolio](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Pengenalan%20dasar%20git%20dan%20github)/portofolio_github.md)
+
 
 
 
