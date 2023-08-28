@@ -28,6 +28,6 @@ Ini adalah rangkuman pembelajaran di kelas dicoding
 - [Server dan jaringan](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Belajar%20Dasar%20Google%20Cloud)/rangkuman_server_dan_jaringan.md)
 - [Storage dan database](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Belajar%20Dasar%20Google%20Cloud)/rangkuman_storage_dan_database.md)
 
-### **Visualisasi data
+### **Visualisasi data**
 - [Pradata](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Belajar%20Dasar%20Visualisasi%20Data)/rangkuman_pradata.md)
 - [Transformasi data ke visual](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Belajar%20Dasar%20Visualisasi%20Data)/transformasi_data_ke_visual.md)
