@@ -20,3 +20,14 @@ Ini adalah rangkuman pembelajaran di kelas dicoding
 - [git branches](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Pengenalan%20dasar%20git%20dan%20github)/git_branches.md)
 - [kolaborasi dengan tim](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Pengenalan%20dasar%20git%20dan%20github)/studi_kasus%20kolaborasi.md)
 - [github sebagai portofolio](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Pengenalan%20dasar%20git%20dan%20github)/portofolio_github.md)
+
+### **Pengenalan google cloud dasar**
+- [Cloud Computing](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Belajar%20Dasar%20Google%20Cloud)/rangkuman_cloud_computing.md)
+- [Cost dan billing](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Belajar%20Dasar%20Google%20Cloud)/rangkuman_cost_dan_billing.md)
+- [security dan compille](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Belajar%20Dasar%20Google%20Cloud)/rangkuman_security_dan_compile.md)
+- [Server dan jaringan](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Belajar%20Dasar%20Google%20Cloud)/rangkuman_server_dan_jaringan.md)
+- [Storage dan database](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Belajar%20Dasar%20Google%20Cloud)/rangkuman_storage_dan_database.md)
+
+### **Visualisasi data
+- [Pradata](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Belajar%20Dasar%20Visualisasi%20Data)/rangkuman_pradata.md)
+- [Transformasi data ke visual](https://github.com/Y4zidd/dicoding_class/blob/main/rangkuman%20(Belajar%20Dasar%20Visualisasi%20Data)/transformasi_data_ke_visual.md)
